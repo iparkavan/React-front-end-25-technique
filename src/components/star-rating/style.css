@@ -1,0 +1,14 @@
+.star-rating {
+  margin: auto auto;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.active {
+  color: #fff700;
+}
+
+.inActive {
+  color: black;
+}
